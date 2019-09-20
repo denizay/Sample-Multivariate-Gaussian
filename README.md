@@ -1,3 +1,3 @@
 # Sample-Multivariate-Gaussian
 
-Eigen is necessary. Matplotlib is only for visualizing.
+Code to sample from multivariate gaussian distribution. Eigen is necessary. Matplotlib is only for visualizing.
